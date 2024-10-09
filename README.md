@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 ![](https://github-contributor-stats.vercel.app/api?username=rj-parana&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img src='https://user-images.githubusercontent.com/34342551/79064573-a6fa9e80-7cc7-11ea-895e-6538c2b8548b.png' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rj-parana&icon=0&color=0)](https://visitcount.itsvg.in)
